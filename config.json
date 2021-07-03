@@ -1,0 +1,24 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/swagcooking",
+        "prod_uri": "mysql://root:@localhost/swagcooking",
+        "fb_url": "https://facebook.com/swagcooking",
+        "tw_url": "https://twitter.com/swagcooking",
+        "gh_url": "https://github.com/swagcooking",
+        "blog_name": "Swag Cooking",
+        "tag_line": "A Blog to show you recepies",
+        "post_name": "Cooking Blog",
+        "author_name": "Admin",
+        "gmail-user": "187r1a0354@gmail.com",
+        "gmail-password": "yeshudarling",
+        "about_text": "Hi i am v shivaji ganesh. i am an engineering student. and iam very enthustiastic about this blog. ",
+        "no_of_posts": "2",
+        "admin_img": "admin.png",
+        "admin_user": "vanamala",
+        "admin_password": "yeshu@143",
+        "upload_location": "C:\\Users\\vanam\\OneDrive\\Desktop\\cooking blog\\static\\img"
+
+    }
+}
